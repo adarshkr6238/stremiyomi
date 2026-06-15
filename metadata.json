@@ -1,0 +1,6 @@
+{
+  "name": "Stremio x Aniyomi",
+  "description": "A high-performance unified streaming client aggregating Stremio Addons and Anime/Manga extensions into a fast, beautiful interface with localized video streaming and manga pages reader.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
